@@ -1,0 +1,1 @@
+This repository contains assignments from my Data Science course at Habib University, where I have implemented and explored foundational and advanced concepts of data science. Each assignment demonstrates practical applications of statistical analysis, machine learning, data manipulation, and visualization techniques, etc.
